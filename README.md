@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Taha Zuberi</h1>
 
+## ✨ About Me
 I’m a 3rd year **Software Engineering** student at the University of Calgary.  
 Passionate about **tech, design, and solving real-world problems** through software.  
 I enjoy working on projects that push me to **learn, adapt, and grow**.  
