@@ -11,10 +11,6 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 📂 Take a peek at my [Portfolio](https://tahazuberi.vercel.app)  or check out my pinned projects below!
 
 
-## 🕹 My Clubs and Societies
-[<img src='https://avatars.githubusercontent.com/u/26998356?s=64&v=4' alt='ZOO' height='40'>](https://zooengg.ca/)
-
-
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -44,11 +40,16 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
 
+## 🏫 My Societies and Clubs
+
+[<img src='https://avatars.githubusercontent.com/u/26998356?s=64&v=4' alt='ZOO' height='40'>](https://zooengg.ca/)  
+[<img src='https://essucalgary.com/wp-content/uploads/2021/09/ess_logo.png' alt='ESS' height='40'>](https://essucalgary.com/)  
 
 
 ## 🌎 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tahadazuberi@gmail.com)
+
 
 
 
