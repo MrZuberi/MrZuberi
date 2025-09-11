@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Taha Zuberi</h1>
 
 ## ✨ About Me
-I’m a 3rd year **Software Engineering** student at the University of Calgary. Passionate about **tech, design, and solving real-world problems** through software. I enjoy working on projects that push me to **learn, adapt, and grow**.  
+I’m a 3rd year **Software Engineering** student at the University of Calgary. My interests span across Web Development, Backend Architecture, API Design, and Machine Learning/AI. I'm always looking to expand my skill set by working on projects and collaborating with others.
 
 ## 🚧 Currently Working On
 - 🛰️ Building a **NASA APOD idle screensaver**  
@@ -36,6 +36,7 @@ I’m a 3rd year **Software Engineering** student at the University of Calgary. 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
 
 
 
