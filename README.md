@@ -11,7 +11,8 @@ I’m a 3rd year **Software Engineering** student at the University of Calgary. 
 
 ## 🌎 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tahadazuberi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tahadazuberi@gmail.com)
+
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +38,7 @@ I’m a 3rd year **Software Engineering** student at the University of Calgary. 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
 
 
 
