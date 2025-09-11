@@ -11,7 +11,7 @@ I love working on projects that challenge me to learn and grow.
 - 🔧 Building a NASA APOD idle screensaver
 - 📚 Expanding my knowledge in [ML models with Tensorflow]  
 - 🌱 Always looking for opportunities to collaborate and learn  
-- Check out my [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge)](https://tahazuberi.vercel.app)
+Check out my [Portfolio](https://tahazuberi.vercel.app)
 ---
 
 
@@ -32,3 +32,4 @@ I love working on projects that challenge me to learn and grow.
 - 💼 [LinkedIn](https://www.linkedin.com/in/taha-zuberi/)  
 
 ---
+
