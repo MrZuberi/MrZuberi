@@ -16,7 +16,7 @@ I love working on projects that challenge me to learn and grow.
 
 ---
 
-## 💻 Tech Toolbox  
+## 💻 Tech Tools
 
 **Languages:**  
 Python · Java · JavaScript · C · C++ · HTML/CSS  
@@ -33,3 +33,4 @@ Git · Docker · Heroku · PostgreSQL
 - 💼 [LinkedIn](https://www.linkedin.com/in/taha-zuberi/)  
 
 ---
+
