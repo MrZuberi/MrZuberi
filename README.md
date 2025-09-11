@@ -9,7 +9,7 @@ I enjoy working on projects that push me to **learn, adapt, and grow**.
 - 🛰️ Building a **NASA APOD idle screensaver**  
 - 🧠 Exploring **Machine Learning** with [TensorFlow](https://www.tensorflow.org/)  
 
-📂 Take a peek at my [Portfolio](https://tahazuberi.vercel.app)  
+📂 Take a peek at my [Portfolio](https://tahazuberi.vercel.app)  or check out my pinned projects below!
 
 ## 🌎 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)  
@@ -38,3 +38,4 @@ I enjoy working on projects that push me to **learn, adapt, and grow**.
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
