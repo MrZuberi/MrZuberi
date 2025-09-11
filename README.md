@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Taha Zuberi</h1>
 
 ## ✨ About Me
-I’m a 3rd year **Software Engineering** student at the University of Calgary and also the Webmaster for the Electrical and Software Students Society (ZOO). 
+I’m a 3rd year **Software Engineering** student at the University of Calgary and also the Webmaster for the Electrical and Software Student's Society (ZOO). 
 My interests span across Web Development, Backend Architecture, API Design, and Machine Learning/AI. If you're working on something interesting, feel free to reach out, I'm always open to new opportunities!
 
 ## 🚧 Currently Working On
@@ -49,6 +49,7 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 ## 🌎 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tahadazuberi@gmail.com)
+
 
 
 
