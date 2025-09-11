@@ -1,27 +1,18 @@
-<h1 align="center">Hey there 👨‍💻 I'm Taha Zuberi</h1>
-
----
+<h1 align="center">Hey there 👋 I'm Taha Zuberi</h1>
 
 ## ✨ About Me
 I’m a 3rd year **Software Engineering** student at the University of Calgary.  
 Passionate about **tech, design, and solving real-world problems** through software.  
 I enjoy working on projects that push me to **learn, adapt, and grow**.  
 
----
-
 ## 🚧 Currently Working On
 - 🛰️ Building a **NASA APOD idle screensaver**  
 - 🧠 Exploring **Machine Learning** with [TensorFlow](https://www.tensorflow.org/)  
 
-📂 Check out my [Portfolio](https://tahazuberi.vercel.app)  
-
----
+📂 Take a peek at my [Portfolio](https://tahazuberi.vercel.app)  
 
 ## 🌎 Let’s Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)  
-
----
 
 ## 🛠️ Tech Stack
 
