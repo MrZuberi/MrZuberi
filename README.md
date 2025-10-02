@@ -48,7 +48,8 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 
 ## 🌎 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tahadazuberi@gmail.com)
+📧: taha.zuberi@ucalgary.ca
+
 
 
 
