@@ -8,7 +8,7 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 - 🛰️ Building a **NASA APOD idle screensaver**  
 - 🧠 Exploring **Machine Learning** with [TensorFlow](https://www.tensorflow.org/)  
 
-📂 Take a peek at my --> [Portfolio](https://tahazuberi.vercel.app)
+📂 Check out my --> [Portfolio](https://tahazuberi.vercel.app)
 
 
 ## 🛠️ Tech Stack
@@ -49,6 +49,7 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 ## 🌎 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)  
 📧: taha.zuberi@ucalgary.ca
+
 
 
 
