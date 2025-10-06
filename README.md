@@ -4,7 +4,7 @@
 I’m a 3rd year **Software Engineering** student at the University of Calgary and also the Webmaster for the **Electrical and Software Student's Society (ZOO)**. 
 My interests span across Web Development, Backend Architecture, API Design, and Machine Learning/AI. If you're working on something interesting, feel free to reach out, I'm always open to new opportunities!
 
-## 🚧 Currently Working On
+## Currently Working On
 - 🛰️ Building a **NASA APOD idle screensaver**  
 - 🧠 Exploring **Machine Learning** with [TensorFlow](https://www.tensorflow.org/)  
 
@@ -40,15 +40,16 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
 
-## 🌐 My Current Societies and Clubs
+## My Current Societies and Clubs
 
 [<img src='https://avatars.githubusercontent.com/u/26998356?s=64&v=4' alt='ZOO' height='40'>](https://zooengg.ca/)  
 
 
 
-## 🌎 Let’s Connect
+## Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)  
 📧: taha.zuberi@ucalgary.ca
+
 
 
 
