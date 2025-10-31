@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Taha Zuberi</h1>
+<h1 align="center">Hi, I'm Taha Zuberi 👋</h1>
 
 ## About Me
 I’m a 3rd year **Software Engineering** student at the University of Calgary
@@ -48,6 +48,7 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 ## Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)  
 📧: taha.zuberi@ucalgary.ca
+
 
 
 
