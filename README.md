@@ -44,6 +44,12 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 
 ---
 
+## My Current Societies and Clubs
+
+[<img src='https://avatars.githubusercontent.com/u/26998356?s=64&v=4' alt='ZOO' height='40'>](https://zooengg.ca/)  
+
+---
+
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)
