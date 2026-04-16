@@ -3,13 +3,7 @@
 
 My interests span across Web Development, Backend Architecture, API Design, and Machine Learning/AI. If you're working on something interesting, feel free to reach out, I'm always open to new opportunities!
 
----
-
-🟢 Currently Building: NASA APOD idle screensaver 
-
----
-
-📂 Check out my --> [Portfolio](https://tahazuberi.vercel.app)
+🟢 Currently Working On: 🛰️ Building a **NASA APOD idle screensaver**  
 
 ---
 
