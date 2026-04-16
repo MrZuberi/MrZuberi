@@ -9,7 +9,7 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 
 ---
 
-### Stack
+### My Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -52,7 +52,7 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 
 ---
 
-### Connect
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zuberi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tahazuberi.vercel.app)
