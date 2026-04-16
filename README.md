@@ -58,3 +58,5 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tahazuberi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taha.zuberi@ucalgary.ca)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MrZuberi)
+
+Message or email me to work together 🚀
