@@ -5,6 +5,9 @@ My interests span across Web Development, Backend Architecture, API Design, and 
 
 🟢 Currently Working On: 🛰️ Building a **NASA APOD idle screensaver**  
 
+🟢 Checkout My Projects below!**
+
+
 ---
 
 ### Stack
